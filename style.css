@@ -27,7 +27,7 @@ section{
 .top banner{
     background-image: url(images/top-banner.png);
     background-repeat: no repeat;
-    background-position: :right;
+    background-position: right;
 }
 h1{
     font-size: 50px;
@@ -46,7 +46,6 @@ h2{
 .half-width{
     width: 50%;
     padding-right: 2%;
-    box-shadow:
 }
 .half-width img{
     width: 30%;
@@ -54,7 +53,7 @@ h2{
 .link-button{
     text-decoration: none;
     text-transform: right;
-    background-color: orange ;
+    background-color: orange;
     padding-right: 15px 40px;
     border-radius: 5px;
 }
